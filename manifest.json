@@ -1,7 +1,7 @@
 ﻿{
-	"name": "BetterHeadstompers",
+	"name": "H3AD-5T v2.Q0L",
 	"version_number": "1.0.0",
-	"website_url": "",
+	"website_url": "https://github.com/ga-bri-el/RoR2-BetterHeadstompers",
 	"description": "Adds a configurable key binding to allow toggling H3AD-5T v2 jump height boost, while still maintaining fall protection and the charge skill.",
 	"dependencies": [
 		"bbepis-BepInExPack-5.4.9",
