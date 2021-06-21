@@ -8,3 +8,6 @@ For future releases, will add a visual effect or icon on the UI indicating wheth
 **1.0.0**
 
 * Release.
+
+## License
+This code is licensed by LIGMA.
