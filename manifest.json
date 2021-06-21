@@ -1,0 +1,10 @@
+﻿{
+	"name": "BetterHeadstompers",
+	"version_number": "1.0.0",
+	"website_url": "",
+	"description": "Adds a configurable key binding to allow toggling H3AD-5T v2 jump height boost, while still maintaining fall protection and the charge skill.",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.9",
+		"RiskofThunder-HookGenPatcher-1.2.1"
+	]
+}
