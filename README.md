@@ -10,4 +10,4 @@ For future releases, will add a visual effect or icon on the UI indicating wheth
 * Release.
 
 ## License
-This code is licensed by LIGMA.
+This code is licensed by WTFPL
